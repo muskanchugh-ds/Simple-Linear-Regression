@@ -12,4 +12,4 @@ References: <br />
 
 Website  url : https://data.world/ <br />
 Dataset url : https://query.data.world/s/s6dnypkx2qy7i4msmfqudasc6awuv6 <br />
-Kaggle link : https://www.kaggle.com/muskanchugh7/simple-linear-regression-model <br />
+Kaggle link : https://www.kaggle.com/code/muskanchughds/simple-linear-regression <br />
